@@ -1,0 +1,42 @@
+{
+  "users": {
+    "TestUsername1": {
+      "username": "TestUsername1",
+      "passwordHash": "2c418458c10f69c6e15cfbb636241d7c7bb3096082a4b03b0bf55313b98825a1"
+    },
+    "TestUsername2": {
+      "username": "TestUsername2",
+      "passwordHash": "3506d97aa7db27c439f0e6a1bfd9618d3c93b8825d7c4251552d0391e0caa840"
+    }
+  },
+  "articles": {
+    "fc8d85c9ca593fd7fce5": {
+      "id": "fc8d85c9ca593fd7fce5",
+      "title": "Title1",
+      "content": "Content text 1",
+      "date": "2024-07-02T12:33:32.812Z",
+      "user": "TestUsername1"
+    },
+    "cec6b5911a1e5dd8bb99": {
+      "id": "cec6b5911a1e5dd8bb99",
+      "title": "UpdatedTitle2",
+      "content": "Updated content text 2",
+      "date": "2024-07-02T12:33:32.812Z",
+      "user": "TestUsername1"
+    },
+    "a0834df9484f2a8fb334": {
+      "id": "a0834df9484f2a8fb334",
+      "title": "Title4",
+      "content": "Content text 4",
+      "date": "2024-07-02T12:33:32.812Z",
+      "user": "TestUsername1"
+    },
+    "d2214c30bc0679fd1fef": {
+      "id": "d2214c30bc0679fd1fef",
+      "title": "Title5",
+      "content": "Content text 5",
+      "date": "2024-07-02T12:33:32.812Z",
+      "user": "TestUsername1"
+    }
+  }
+}
